@@ -9,9 +9,8 @@ public class MyClass {
 	}
 	
 	public void pull() {
-		System.out.println("Another chnags");
-		
-		
+		System.out.println("Another chnags123");
+	System.out.println("Thas is different ");
 		
 	}
 	public void middle() {
@@ -20,4 +19,8 @@ public class MyClass {
 	public void pull1() {
 		System.out.println("Another changes");
 	}
+public void mainVersiob() {
+	System.out.println("this should be in anither version");
 }
+}
+
