@@ -11,7 +11,7 @@ public class MyClass {
 	public void pull() {
 		System.out.println("Another chnags123");
 	System.out.println("Thas is different ");
-		
+		System.out.println("for master");
 	}
 	public void middle() {
 		System.out.println("Somethisn middle");
